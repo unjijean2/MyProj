@@ -6,4 +6,8 @@ public class MyMessage {
 	public void print() {
 		System.out.println(message);
 	}
+
+	public void set() {
+		System.out.println(message);
+	}
 }
